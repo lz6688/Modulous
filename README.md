@@ -1,3 +1,3 @@
 # Modulous
 
-An iOS developer framework for modular software. This framework assists tweak developers in implementing a modular design pattern in their projects. See `Examples` for an extremely simple usage example.
+一款适用于 iOS 的模块化软件开发框架。该框架可帮助调优开发者在其项目中实现模块化设计模式。请查看“示例”以获取极其简单的使用示例。

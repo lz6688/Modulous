@@ -1,10 +1,23 @@
-Package: me.jjolano.fmwk.modulous
+# 包标识符（Package Identifier）
+# 格式：反向域名表示法，确保唯一性
+# com.hacker.fmwk.modulous = 公司.类型.名称
+Package: com.hacker.fmwk.modulous
+# 包的显示名称（在 Cydia/Sileo 等包管理器中显示）
 Name: Modulous Framework
+# 运行时依赖（必须满足的条件才能安装）
+# firmware (>= 8.0): 需要 iOS 8.0 或更高版本
 Depends: firmware (>= 8.0)
+# 版本号（遵循语义化版本规则）
+# 1.0.8 = 主版本.次版本.修订号
 Version: 1.0.8
+# 目标架构
+# iphoneos-arm: 适用于 iOS 设备的 ARM 架构（32位）
 Architecture: iphoneos-arm
+# 简短描述
 Description: An iOS developer framework for modular software.
-Maintainer: jjolano
+# 维护者信息（负责更新和维护此包的人）
+Maintainer: hacker
+# 作者信息（原始开发者）
 Author: jjolano
 Section: Development
 Tag: role::developer
