@@ -7,7 +7,7 @@
 	<key>CFBundleExecutable</key>
 	<string>Modulous</string>
 	<key>CFBundleIdentifier</key>
-	<string>me.jjolano.fmwk.modulous</string>
+	<string>com.hacker.fmwk.modulous</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundlePackageType</key>
